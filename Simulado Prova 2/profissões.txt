@@ -1,0 +1,6 @@
+5
+100 alfaiate 2.4
+101 analista 10.8
+200 antropologo 1.6
+1600 domestico 8
+1700 Ecara 1.1
