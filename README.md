@@ -1,1 +1,3 @@
-Exercícios realizados durante a disciplina Algoritmos e Programação (INF-UFRGS).
+# Algoritmos e Programação
+### Semestre: 2018/2
+#### Professor: Joel Luís Carbonera
